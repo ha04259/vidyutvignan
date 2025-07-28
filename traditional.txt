@@ -1,3 +1,5 @@
+Server: Physical machine (vijayawada : land, electricty, man power, hardware, airconditining)
+
 Web technologies: vidyutvignan.com
 Traditional build and deployment
 
@@ -31,3 +33,10 @@ Artifitory : To store your dependencies and aslo to store artifacts (Jar, war, e
 
 
 Continuous Deployment/
+Artifiactory: we have artifacts (jar, war, ear, exe docker images)
+
+Deplyment tool: Apache Tomcat (manual approach) --> Test Server --> Prod Server
+
+Monitoring and Logging: AppDynamics, Splunk 
+Logging: Splunk
+Monitoring: ELK, Appdynamics, 
