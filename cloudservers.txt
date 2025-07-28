@@ -1,0 +1,2 @@
+All servers managed by Cloud Provider
+Build and deployment with cloud server(AWS/Azure/GCP)
