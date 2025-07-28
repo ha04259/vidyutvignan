@@ -1,1 +1,33 @@
-hareesh working on A feature
+Web technologies: vidyutvignan.com
+Traditional build and deployment
+
+Continous Integration CI
+1. Git
+vidyutvignan code: Source Code management tools: Git, SVN (local code management tools) -- Local repository
+task for suresh: Install git in your machine
+download link: https://git-scm.com/downloads/win
+
+task for suresh: install vs code
+download link: https://code.visualstudio.com/
+
+2. GitHub
+Remote source code management tool: GitHub, Bitbucket -- remote repository
+ website link: github.com
+
+code repository name: vidyutvignan(Server team, DevOps team , UI team, Testing team(QE), Databaseteam, Mange person(team leader))
+ suresh machine -- vidyutvignan -- A- feature developed
+ hareesh machine -- vidyutvignan -- B -feature developed
+
+3. Jenkins
+Build platforms (Jenkins, Teamcity)
+Java Project: code build tools : maven, ant, gradle
+.Net: code build tools: MSbuild
+ReactJS: code build tools: Yarn
+
+Notes: Jenkins builds your code based on proect and generates output as artifact
+
+4. Artifactory (nexus repository, Jfrog Artifactory, S3)
+Artifitory : To store your dependencies and aslo to store artifacts (Jar, war, ear, .exe, docker images)
+
+
+Continuous Deployment/
