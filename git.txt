@@ -10,3 +10,8 @@ git clone https://github.com/ha04259/vidyutvignan.git -- HTTPS (username and pas
 Private repository : aws
 git clone git@github.com:ha04259/aws.git  -- SSH key required 
 git clone https://github.com/ha04259/aws.git -- HTTPS (username and password required)
+
+my task : what is the difference between public/private repository
+what is diff between https and ssh in git 
+hello
+new line
