@@ -39,5 +39,4 @@ Deplyment tool: Apache Tomcat (manual approach) --> Test Server --> Prod Server
 
 Monitoring and Logging: AppDynamics, Splunk 
 Logging: Splunk
-Monitoring: ELK, Appdynamics,
-DevSecOps tools: Checkmarx, Sonarqube 
+Monitoring: ELK, Appdynamics, wavefront
