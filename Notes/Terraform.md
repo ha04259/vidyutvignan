@@ -57,3 +57,4 @@ Terraform is **cloud-agnostic**, meaning it's compatible with many cloud provide
 - **Kubernetes**: Orchestrates containerized applications on top of provisioned infrastructure
 
 ---
+Refrences: https://registry.terraform.io/
